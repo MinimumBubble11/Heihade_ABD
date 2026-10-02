@@ -1,0 +1,127 @@
+{
+  "item": {
+    "id": "com.huashu.heihade",
+    "restype": "quick_app",
+    "name": "嘿哈嘚",
+    "description": "Vela腕上音效",
+    "preview": [
+      "media/1.png",
+      "media/2.png",
+      "media/3.png",
+      "media/4.png",
+      "media/5.png",
+      "media/6.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/f8571f3b-ed5b-4327-8f45-1e0a22fa121c.png",
+    "author": [
+      {
+        "name": "abc4704",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "音效贡献",
+      "url": "https://minimumbubble11.github.io/Heihade_index/contributor.html",
+      "icon": "ArrowFatUp"
+    },
+    {
+      "title": "交流群",
+      "url": "https://qm.qq.com/q/QfvpeDee4i",
+      "icon": "ChatCircleText"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "26.10.2",
+      "file_name": "downloads/com.huashu.heihade.release.26.10.2.rpk",
+      "versionCode": 261002,
+      "updatelogs": [
+        {
+          "version": "26.10.2",
+          "content": "-修复播放页工具栏按钮不会震动的问题\n-修复传输或下载完音效返回音效列表不会刷新列表的问题"
+        }
+      ]
+    },
+    "xmrw6": {
+      "version": "26.10.2",
+      "file_name": "downloads/com.huashu.heihade.release.26.10.2.rpk",
+      "versionCode": 261002,
+      "updatelogs": [
+        {
+          "version": "26.10.2",
+          "content": "-修复播放页工具栏按钮不会震动的问题\n-修复传输或下载完音效返回音效列表不会刷新列表的问题"
+        }
+      ]
+    },
+    "xmrw5xring": {
+      "version": "26.10.2",
+      "file_name": "downloads/com.huashu.heihade.release.26.10.2.rpk",
+      "versionCode": 261002,
+      "updatelogs": [
+        {
+          "version": "26.10.2",
+          "content": "-修复播放页工具栏按钮不会震动的问题\n-修复传输或下载完音效返回音效列表不会刷新列表的问题"
+        }
+      ]
+    },
+    "xmws3": {
+      "version": "26.10.2",
+      "file_name": "downloads/com.huashu.heihade.release.26.10.2.rpk",
+      "versionCode": 261002,
+      "updatelogs": [
+        {
+          "version": "26.10.2",
+          "content": "-修复播放页工具栏按钮不会震动的问题\n-修复传输或下载完音效返回音效列表不会刷新列表的问题"
+        }
+      ]
+    },
+    "xmws4xring": {
+      "version": "26.10.2",
+      "file_name": "downloads/com.huashu.heihade.release.26.10.2.rpk",
+      "versionCode": 261002,
+      "updatelogs": [
+        {
+          "version": "26.10.2",
+          "content": "-修复播放页工具栏按钮不会震动的问题\n-修复传输或下载完音效返回音效列表不会刷新列表的问题"
+        }
+      ]
+    },
+    "xmws441": {
+      "version": "26.10.2",
+      "file_name": "downloads/com.huashu.heihade.release.26.10.2.rpk",
+      "versionCode": 261002,
+      "updatelogs": [
+        {
+          "version": "26.10.2",
+          "content": "-修复播放页工具栏按钮不会震动的问题\n-修复传输或下载完音效返回音效列表不会刷新列表的问题"
+        }
+      ]
+    },
+    "xmws4": {
+      "version": "26.10.2",
+      "file_name": "downloads/com.huashu.heihade.release.26.10.2.rpk",
+      "versionCode": 261002,
+      "updatelogs": [
+        {
+          "version": "26.10.2",
+          "content": "-修复播放页工具栏按钮不会震动的问题\n-修复传输或下载完音效返回音效列表不会刷新列表的问题"
+        }
+      ]
+    },
+    "xmws5": {
+      "version": "26.10.2",
+      "file_name": "downloads/com.huashu.heihade.release.26.10.2.rpk",
+      "versionCode": 261002,
+      "updatelogs": [
+        {
+          "version": "26.10.2",
+          "content": "-修复播放页工具栏按钮不会震动的问题\n-修复传输或下载完音效返回音效列表不会刷新列表的问题"
+        }
+      ]
+    }
+  },
+  "ext": {}
+}
