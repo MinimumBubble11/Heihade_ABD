@@ -5,6 +5,7 @@
     "name": "嘿哈嘚",
     "description": "🥊 动作音效（挥拳 / 挥剑 / 开枪触发）\n✋ 手势调节\n🔒 音频锁定（长按进度条切换状态）\n🎚️ 灵敏度调节\n🔊 应用内音量调节\n🔄 AstroBox 插件同步自定义音频\n🛜 联网下载（依赖github.io）\n🤖 自动挂机（长按图片/文字开始）",
     "preview": [
+      "media/heihade-poster-1800x1200.png",
       "media/1.png",
       "media/4.png",
       "media/5.png",
@@ -23,12 +24,12 @@
     {
       "title": "音效贡献",
       "url": "https://minimumbubble11.github.io/Heihade_index/contributor.html",
-      "icon": "Archive"
+      "icon": "archive"
     },
     {
       "title": "交流群",
       "url": "https://qm.qq.com/q/QfvpeDee4i",
-      "icon": "ChatCircleDots"
+      "icon": "chat-circle-dots"
     }
   ],
   "downloads": {
