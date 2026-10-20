@@ -34,10 +34,14 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "26.10.19",
-      "file_name": "downloads/com.huashu.heihade.release.26.10.19.rpk",
-      "versionCode": 261020,
+      "version": "26.10.21",
+      "file_name": "downloads/com.huashu.heihade.release.26.10.21.rpk",
+      "versionCode": 261021,
       "updatelogs": [
+        {
+          "version": "26.10.21",
+          "content": "- 移除了上个版本的懒加载列表\n- 现在圆屏设备在音效管理页展开输入法会自动隐藏连接状态和刷新按钮\n- 部分性能优化"
+        },
         {
           "version": "26.10.19",
           "content": "- 修复了音效管理页搜索音效时的页面滚动无法定位到正确位置的问题\n- 修复了音效管理页搜索音效会一直妙妙跳到页面顶部的问题\n- 输入法现在使用魔改的https://github.com/NEORUAA/Vela_input_method\n- 调整了圆屏音效传输进度条的宽度\n- 优化了播放页的音效加载性能\n- 原藏起来的\"测试工具箱\"现已改为“高级设置”放置在设置中，原入口没删，快来找找在哪吧！\n- 现在音效使用新的文件存储结构，升级后会自动开始迁移，迁移完成后即可正常使用\n- 网络连接失败等类似提示现在直接打印错误码\n- 音效选择现已改为类平铺设计"
@@ -49,10 +53,14 @@
       ]
     },
     "xmrw5xring": {
-      "version": "26.10.19",
-      "file_name": "downloads/com.huashu.heihade.release.26.10.19.rpk",
-      "versionCode": 261020,
+      "version": "26.10.21",
+      "file_name": "downloads/com.huashu.heihade.release.26.10.21.rpk",
+      "versionCode": 261021,
       "updatelogs": [
+        {
+          "version": "26.10.21",
+          "content": "- 移除了上个版本的懒加载列表\n- 现在圆屏设备在音效管理页展开输入法会自动隐藏连接状态和刷新按钮\n- 部分性能优化"
+        },
         {
           "version": "26.10.19",
           "content": "- 修复了音效管理页搜索音效时的页面滚动无法定位到正确位置的问题\n- 修复了音效管理页搜索音效会一直妙妙跳到页面顶部的问题\n- 输入法现在使用魔改的https://github.com/NEORUAA/Vela_input_method\n- 调整了圆屏音效传输进度条的宽度\n- 优化了播放页的音效加载性能\n- 原藏起来的\"测试工具箱\"现已改为“高级设置”放置在设置中，原入口没删，快来找找在哪吧！\n- 现在音效使用新的文件存储结构，升级后会自动开始迁移，迁移完成后即可正常使用\n- 网络连接失败等类似提示现在直接打印错误码\n- 音效选择现已改为类平铺设计"
@@ -64,10 +72,14 @@
       ]
     },
     "xmrw6": {
-      "version": "26.10.19",
-      "file_name": "downloads/com.huashu.heihade.release.26.10.19.rpk",
-      "versionCode": 261020,
+      "version": "26.10.21",
+      "file_name": "downloads/com.huashu.heihade.release.26.10.21.rpk",
+      "versionCode": 261021,
       "updatelogs": [
+        {
+          "version": "26.10.21",
+          "content": "- 移除了上个版本的懒加载列表\n- 现在圆屏设备在音效管理页展开输入法会自动隐藏连接状态和刷新按钮\n- 部分性能优化"
+        },
         {
           "version": "26.10.19",
           "content": "- 修复了音效管理页搜索音效时的页面滚动无法定位到正确位置的问题\n- 修复了音效管理页搜索音效会一直妙妙跳到页面顶部的问题\n- 输入法现在使用魔改的https://github.com/NEORUAA/Vela_input_method\n- 调整了圆屏音效传输进度条的宽度\n- 优化了播放页的音效加载性能\n- 原藏起来的\"测试工具箱\"现已改为“高级设置”放置在设置中，原入口没删，快来找找在哪吧！\n- 现在音效使用新的文件存储结构，升级后会自动开始迁移，迁移完成后即可正常使用\n- 网络连接失败等类似提示现在直接打印错误码\n- 音效选择现已改为类平铺设计"
@@ -79,10 +91,14 @@
       ]
     },
     "xmws3": {
-      "version": "26.10.19",
-      "file_name": "downloads/com.huashu.heihade.release.26.10.19.rpk",
-      "versionCode": 261020,
+      "version": "26.10.21",
+      "file_name": "downloads/com.huashu.heihade.release.26.10.21.rpk",
+      "versionCode": 261021,
       "updatelogs": [
+        {
+          "version": "26.10.21",
+          "content": "- 移除了上个版本的懒加载列表\n- 现在圆屏设备在音效管理页展开输入法会自动隐藏连接状态和刷新按钮\n- 部分性能优化"
+        },
         {
           "version": "26.10.19",
           "content": "- 修复了音效管理页搜索音效时的页面滚动无法定位到正确位置的问题\n- 修复了音效管理页搜索音效会一直妙妙跳到页面顶部的问题\n- 输入法现在使用魔改的https://github.com/NEORUAA/Vela_input_method\n- 调整了圆屏音效传输进度条的宽度\n- 优化了播放页的音效加载性能\n- 原藏起来的\"测试工具箱\"现已改为“高级设置”放置在设置中，原入口没删，快来找找在哪吧！\n- 现在音效使用新的文件存储结构，升级后会自动开始迁移，迁移完成后即可正常使用\n- 网络连接失败等类似提示现在直接打印错误码\n- 音效选择现已改为类平铺设计"
@@ -94,10 +110,14 @@
       ]
     },
     "xmws4xring": {
-      "version": "26.10.19",
-      "file_name": "downloads/com.huashu.heihade.release.26.10.19.rpk",
-      "versionCode": 261020,
+      "version": "26.10.21",
+      "file_name": "downloads/com.huashu.heihade.release.26.10.21.rpk",
+      "versionCode": 261021,
       "updatelogs": [
+        {
+          "version": "26.10.21",
+          "content": "- 移除了上个版本的懒加载列表\n- 现在圆屏设备在音效管理页展开输入法会自动隐藏连接状态和刷新按钮\n- 部分性能优化"
+        },
         {
           "version": "26.10.19",
           "content": "- 修复了音效管理页搜索音效时的页面滚动无法定位到正确位置的问题\n- 修复了音效管理页搜索音效会一直妙妙跳到页面顶部的问题\n- 输入法现在使用魔改的https://github.com/NEORUAA/Vela_input_method\n- 调整了圆屏音效传输进度条的宽度\n- 优化了播放页的音效加载性能\n- 原藏起来的\"测试工具箱\"现已改为“高级设置”放置在设置中，原入口没删，快来找找在哪吧！\n- 现在音效使用新的文件存储结构，升级后会自动开始迁移，迁移完成后即可正常使用\n- 网络连接失败等类似提示现在直接打印错误码\n- 音效选择现已改为类平铺设计"
@@ -109,10 +129,14 @@
       ]
     },
     "xmws441": {
-      "version": "26.10.19",
-      "file_name": "downloads/com.huashu.heihade.release.26.10.19.rpk",
-      "versionCode": 261020,
+      "version": "26.10.21",
+      "file_name": "downloads/com.huashu.heihade.release.26.10.21.rpk",
+      "versionCode": 261021,
       "updatelogs": [
+        {
+          "version": "26.10.21",
+          "content": "- 移除了上个版本的懒加载列表\n- 现在圆屏设备在音效管理页展开输入法会自动隐藏连接状态和刷新按钮\n- 部分性能优化"
+        },
         {
           "version": "26.10.19",
           "content": "- 修复了音效管理页搜索音效时的页面滚动无法定位到正确位置的问题\n- 修复了音效管理页搜索音效会一直妙妙跳到页面顶部的问题\n- 输入法现在使用魔改的https://github.com/NEORUAA/Vela_input_method\n- 调整了圆屏音效传输进度条的宽度\n- 优化了播放页的音效加载性能\n- 原藏起来的\"测试工具箱\"现已改为“高级设置”放置在设置中，原入口没删，快来找找在哪吧！\n- 现在音效使用新的文件存储结构，升级后会自动开始迁移，迁移完成后即可正常使用\n- 网络连接失败等类似提示现在直接打印错误码\n- 音效选择现已改为类平铺设计"
@@ -124,10 +148,14 @@
       ]
     },
     "xmws4": {
-      "version": "26.10.19",
-      "file_name": "downloads/com.huashu.heihade.release.26.10.19.rpk",
-      "versionCode": 261020,
+      "version": "26.10.21",
+      "file_name": "downloads/com.huashu.heihade.release.26.10.21.rpk",
+      "versionCode": 261021,
       "updatelogs": [
+        {
+          "version": "26.10.21",
+          "content": "- 移除了上个版本的懒加载列表\n- 现在圆屏设备在音效管理页展开输入法会自动隐藏连接状态和刷新按钮\n- 部分性能优化"
+        },
         {
           "version": "26.10.19",
           "content": "- 修复了音效管理页搜索音效时的页面滚动无法定位到正确位置的问题\n- 修复了音效管理页搜索音效会一直妙妙跳到页面顶部的问题\n- 输入法现在使用魔改的https://github.com/NEORUAA/Vela_input_method\n- 调整了圆屏音效传输进度条的宽度\n- 优化了播放页的音效加载性能\n- 原藏起来的\"测试工具箱\"现已改为“高级设置”放置在设置中，原入口没删，快来找找在哪吧！\n- 现在音效使用新的文件存储结构，升级后会自动开始迁移，迁移完成后即可正常使用\n- 网络连接失败等类似提示现在直接打印错误码\n- 音效选择现已改为类平铺设计"
@@ -139,10 +167,14 @@
       ]
     },
     "xmws541": {
-      "version": "26.10.19",
-      "file_name": "downloads/com.huashu.heihade.release.26.10.19.rpk",
-      "versionCode": 261020,
+      "version": "26.10.21",
+      "file_name": "downloads/com.huashu.heihade.release.26.10.21.rpk",
+      "versionCode": 261021,
       "updatelogs": [
+        {
+          "version": "26.10.21",
+          "content": "- 移除了上个版本的懒加载列表\n- 现在圆屏设备在音效管理页展开输入法会自动隐藏连接状态和刷新按钮\n- 部分性能优化"
+        },
         {
           "version": "26.10.19",
           "content": "- 修复了音效管理页搜索音效时的页面滚动无法定位到正确位置的问题\n- 修复了音效管理页搜索音效会一直妙妙跳到页面顶部的问题\n- 输入法现在使用魔改的https://github.com/NEORUAA/Vela_input_method\n- 调整了圆屏音效传输进度条的宽度\n- 优化了播放页的音效加载性能\n- 原藏起来的\"测试工具箱\"现已改为“高级设置”放置在设置中，原入口没删，快来找找在哪吧！\n- 现在音效使用新的文件存储结构，升级后会自动开始迁移，迁移完成后即可正常使用\n- 网络连接失败等类似提示现在直接打印错误码\n- 音效选择现已改为类平铺设计"
@@ -154,10 +186,14 @@
       ]
     },
     "xmws5": {
-      "version": "26.10.19",
-      "file_name": "downloads/com.huashu.heihade.release.26.10.19.rpk",
-      "versionCode": 261020,
+      "version": "26.10.21",
+      "file_name": "downloads/com.huashu.heihade.release.26.10.21.rpk",
+      "versionCode": 261021,
       "updatelogs": [
+        {
+          "version": "26.10.21",
+          "content": "- 移除了上个版本的懒加载列表\n- 现在圆屏设备在音效管理页展开输入法会自动隐藏连接状态和刷新按钮\n- 部分性能优化"
+        },
         {
           "version": "26.10.19",
           "content": "- 修复了音效管理页搜索音效时的页面滚动无法定位到正确位置的问题\n- 修复了音效管理页搜索音效会一直妙妙跳到页面顶部的问题\n- 输入法现在使用魔改的https://github.com/NEORUAA/Vela_input_method\n- 调整了圆屏音效传输进度条的宽度\n- 优化了播放页的音效加载性能\n- 原藏起来的\"测试工具箱\"现已改为“高级设置”放置在设置中，原入口没删，快来找找在哪吧！\n- 现在音效使用新的文件存储结构，升级后会自动开始迁移，迁移完成后即可正常使用\n- 网络连接失败等类似提示现在直接打印错误码\n- 音效选择现已改为类平铺设计"
