@@ -34,10 +34,14 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "26.10.21",
-      "file_name": "downloads/com.huashu.heihade.release.26.10.21.rpk",
-      "versionCode": 261021,
+      "version": "26.11.01",
+      "file_name": "downloads/com.huashu.heihade.release.26.11.01.rpk",
+      "versionCode": 261101,
       "updatelogs": [
+        {
+          "version": "26.11.01",
+          "content": "- 优化带搜索的页面性能\n- 播放器加载优化\n- 下载页添加了当前会话缓存"
+        },
         {
           "version": "26.10.21",
           "content": "- 移除了上个版本的懒加载列表\n- 现在圆屏设备在音效管理页展开输入法会自动隐藏连接状态和刷新按钮\n- 部分性能优化"
@@ -53,10 +57,14 @@
       ]
     },
     "xmrw5xring": {
-      "version": "26.10.21",
-      "file_name": "downloads/com.huashu.heihade.release.26.10.21.rpk",
-      "versionCode": 261021,
+      "version": "26.11.01",
+      "file_name": "downloads/com.huashu.heihade.release.26.11.01.rpk",
+      "versionCode": 261101,
       "updatelogs": [
+        {
+          "version": "26.11.01",
+          "content": "- 优化带搜索的页面性能\n- 播放器加载优化\n- 下载页添加了当前会话缓存"
+        },
         {
           "version": "26.10.21",
           "content": "- 移除了上个版本的懒加载列表\n- 现在圆屏设备在音效管理页展开输入法会自动隐藏连接状态和刷新按钮\n- 部分性能优化"
@@ -72,10 +80,14 @@
       ]
     },
     "xmrw6": {
-      "version": "26.10.21",
-      "file_name": "downloads/com.huashu.heihade.release.26.10.21.rpk",
-      "versionCode": 261021,
+      "version": "26.11.01",
+      "file_name": "downloads/com.huashu.heihade.release.26.11.01.rpk",
+      "versionCode": 261101,
       "updatelogs": [
+        {
+          "version": "26.11.01",
+          "content": "- 优化带搜索的页面性能\n- 播放器加载优化\n- 下载页添加了当前会话缓存"
+        },
         {
           "version": "26.10.21",
           "content": "- 移除了上个版本的懒加载列表\n- 现在圆屏设备在音效管理页展开输入法会自动隐藏连接状态和刷新按钮\n- 部分性能优化"
@@ -91,10 +103,14 @@
       ]
     },
     "xmws3": {
-      "version": "26.10.21",
-      "file_name": "downloads/com.huashu.heihade.release.26.10.21.rpk",
-      "versionCode": 261021,
+      "version": "26.11.01",
+      "file_name": "downloads/com.huashu.heihade.release.26.11.01.rpk",
+      "versionCode": 261101,
       "updatelogs": [
+        {
+          "version": "26.11.01",
+          "content": "- 优化带搜索的页面性能\n- 播放器加载优化\n- 下载页添加了当前会话缓存"
+        },
         {
           "version": "26.10.21",
           "content": "- 移除了上个版本的懒加载列表\n- 现在圆屏设备在音效管理页展开输入法会自动隐藏连接状态和刷新按钮\n- 部分性能优化"
@@ -110,10 +126,14 @@
       ]
     },
     "xmws4xring": {
-      "version": "26.10.21",
-      "file_name": "downloads/com.huashu.heihade.release.26.10.21.rpk",
-      "versionCode": 261021,
+      "version": "26.11.01",
+      "file_name": "downloads/com.huashu.heihade.release.26.11.01.rpk",
+      "versionCode": 261101,
       "updatelogs": [
+        {
+          "version": "26.11.01",
+          "content": "- 优化带搜索的页面性能\n- 播放器加载优化\n- 下载页添加了当前会话缓存"
+        },
         {
           "version": "26.10.21",
           "content": "- 移除了上个版本的懒加载列表\n- 现在圆屏设备在音效管理页展开输入法会自动隐藏连接状态和刷新按钮\n- 部分性能优化"
@@ -129,10 +149,14 @@
       ]
     },
     "xmws441": {
-      "version": "26.10.21",
-      "file_name": "downloads/com.huashu.heihade.release.26.10.21.rpk",
-      "versionCode": 261021,
+      "version": "26.11.01",
+      "file_name": "downloads/com.huashu.heihade.release.26.11.01.rpk",
+      "versionCode": 261101,
       "updatelogs": [
+        {
+          "version": "26.11.01",
+          "content": "- 优化带搜索的页面性能\n- 播放器加载优化\n- 下载页添加了当前会话缓存"
+        },
         {
           "version": "26.10.21",
           "content": "- 移除了上个版本的懒加载列表\n- 现在圆屏设备在音效管理页展开输入法会自动隐藏连接状态和刷新按钮\n- 部分性能优化"
@@ -148,10 +172,14 @@
       ]
     },
     "xmws4": {
-      "version": "26.10.21",
-      "file_name": "downloads/com.huashu.heihade.release.26.10.21.rpk",
-      "versionCode": 261021,
+      "version": "26.11.01",
+      "file_name": "downloads/com.huashu.heihade.release.26.11.01.rpk",
+      "versionCode": 261101,
       "updatelogs": [
+        {
+          "version": "26.11.01",
+          "content": "- 优化带搜索的页面性能\n- 播放器加载优化\n- 下载页添加了当前会话缓存"
+        },
         {
           "version": "26.10.21",
           "content": "- 移除了上个版本的懒加载列表\n- 现在圆屏设备在音效管理页展开输入法会自动隐藏连接状态和刷新按钮\n- 部分性能优化"
@@ -167,10 +195,14 @@
       ]
     },
     "xmws541": {
-      "version": "26.10.21",
-      "file_name": "downloads/com.huashu.heihade.release.26.10.21.rpk",
-      "versionCode": 261021,
+      "version": "26.11.01",
+      "file_name": "downloads/com.huashu.heihade.release.26.11.01.rpk",
+      "versionCode": 261101,
       "updatelogs": [
+        {
+          "version": "26.11.01",
+          "content": "- 优化带搜索的页面性能\n- 播放器加载优化\n- 下载页添加了当前会话缓存"
+        },
         {
           "version": "26.10.21",
           "content": "- 移除了上个版本的懒加载列表\n- 现在圆屏设备在音效管理页展开输入法会自动隐藏连接状态和刷新按钮\n- 部分性能优化"
@@ -186,10 +218,14 @@
       ]
     },
     "xmws5": {
-      "version": "26.10.21",
-      "file_name": "downloads/com.huashu.heihade.release.26.10.21.rpk",
-      "versionCode": 261021,
+      "version": "26.11.01",
+      "file_name": "downloads/com.huashu.heihade.release.26.11.01.rpk",
+      "versionCode": 261101,
       "updatelogs": [
+        {
+          "version": "26.11.01",
+          "content": "- 优化带搜索的页面性能\n- 播放器加载优化\n- 下载页添加了当前会话缓存"
+        },
         {
           "version": "26.10.21",
           "content": "- 移除了上个版本的懒加载列表\n- 现在圆屏设备在音效管理页展开输入法会自动隐藏连接状态和刷新按钮\n- 部分性能优化"
